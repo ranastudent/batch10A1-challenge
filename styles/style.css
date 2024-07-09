@@ -312,13 +312,16 @@
 }
 
 /* nine section styles */
-.contact-container {
+#contact-container {
       width: 1140px;
       height: 313px;
       padding: 64px 48px 64px 48px;
       border-radius: 16px;
       background-image: url('../assets/handshake.jpg');
-      margin: 200px auto;
+      margin-top: 200px;
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 0px;
 }
 
 .contact-box {
@@ -376,4 +379,10 @@
       line-height: 23px;
       letter-spacing: 0%;
       text-align: center;
+}
+/* section ten style start here */
+.footer{
+      display: flex;
+      justify-content: space-between;
+      margin: 20px 150px;
 }
