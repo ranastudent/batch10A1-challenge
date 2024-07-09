@@ -182,3 +182,130 @@
 }
 
 /* section fourth style end here */
+
+/* section sixth start here */
+.sixth-section {
+      width: 852px;
+      height: 113px;
+      margin: 28px auto;
+      text-align: center;
+}
+
+.inspiration-title {
+      color: rgb(13, 19, 33);
+      font-size: 32px;
+      font-weight: 800;
+      line-height: 37px;
+      letter-spacing: 0%;
+}
+
+.inspiration-description {
+      color: rgb(13, 19, 33);
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 26px;
+      letter-spacing: 0%;
+}
+
+.seven-section {
+      width: 1076px;
+      height: 550px;
+      margin: 10px auto;
+      justify-content: center;
+}
+
+/* section eight styles start here */
+.eight-section {
+      width: 1140px;
+      height: 460px;
+      margin: 60px auto;
+}
+
+.current-target {
+      width: 946px;
+      height: 113px;
+      margin: 48px auto;
+      text-align: center;
+      margin-top: 0px;
+      padding-top: 0px;
+      margin-bottom: 100px;
+}
+
+.current-skills {
+      display: flex;
+      justify-content: space-evenly
+}
+
+.current-skill-html {
+      width: 364px;
+      height: 299px;
+      padding: 40px;
+      margin: 0px 24px;
+      border-radius: 16px;
+      background: rgba(255, 76, 30, 0.05);
+}
+
+.current-skill-css {
+      width: 364px;
+      height: 299px;
+      padding: 40px;
+      margin: 0px 24px;
+      border-radius: 16px;
+      background: rgba(0, 76, 232, 0.05);
+}
+
+.current-skill-js {
+      width: 364px;
+      height: 299px;
+      padding: 40px;
+      margin: 0px 24px;
+      border-radius: 16px;
+      background: rgba(255, 223, 0, 0.05);
+}
+
+.current-title {
+      color: rgb(13, 19, 33);
+      font-size: 32px;
+      font-weight: 800;
+      line-height: 37px;
+      letter-spacing: 0%;
+}
+
+.cuttent-title-description {
+      color: rgb(13, 19, 33);
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 26px;
+      letter-spacing: 0%;
+      opacity: 0.7;
+      margin: 24px 0px;
+}
+
+.skill-title {
+      color: rgb(13, 19, 33);
+      font-size: 24px;
+      font-weight: 800;
+      line-height: 36px;
+      letter-spacing: 0%;
+      text-align: left;
+}
+
+.skill-description {
+      color: rgb(13, 19, 33);
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 26px;
+      letter-spacing: 0%;
+      text-align: left;
+      opacity: 0.7;
+}
+
+.skill-anchor {
+      color: rgb(13, 19, 33);
+      font-size: 16px;
+      font-weight: 700;
+      line-height: 19px;
+      letter-spacing: 0%;
+      text-align: left;
+      text-decoration-line: underline;
+}
