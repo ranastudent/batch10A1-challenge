@@ -39,8 +39,32 @@
       line-height: 26px;
 }
 
- .btn-contact button{
+.btn-contact button {
       background: rgb(13, 19, 33);
       color: white;
       height: 30px;
- }
+}
+
+/* second section */
+.why-web {
+      width: 998px;
+      height: 300px;
+      margin: 0 auto;
+      margin-top: 50px;
+}
+
+.why-web-title {
+      color: rgb(13, 19, 33);
+      font-size: 32px;
+      font-weight: 800;
+      line-height: 37px;
+      text-align: center;
+}
+
+.why-web-description {
+      color: rgb(13, 19, 33);
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 26px;
+      text-align: center;
+}
