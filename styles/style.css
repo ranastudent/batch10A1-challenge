@@ -233,7 +233,8 @@
 
 .current-skills {
       display: flex;
-      justify-content: space-evenly
+      justify-content: space-evenly;
+      margin-bottom: 30px;
 }
 
 .current-skill-html {
@@ -308,4 +309,71 @@
       letter-spacing: 0%;
       text-align: left;
       text-decoration-line: underline;
+}
+
+/* nine section styles */
+.contact-container {
+      width: 1140px;
+      height: 313px;
+      padding: 64px 48px 64px 48px;
+      border-radius: 16px;
+      background-image: url('../assets/handshake.jpg');
+      margin: 200px auto;
+}
+
+.contact-box {
+      width: 1044px;
+      height: 185px;
+      text-align: center;
+      margin: 64px 10px;
+}
+
+.contact-title {
+      color: rgb(255, 255, 255);
+      font-size: 32px;
+      font-weight: 700;
+      line-height: 36px;
+      letter-spacing: 0%;
+      text-align: center;
+}
+
+.contact-description {
+      color: rgb(255, 255, 255);
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 26px;
+      letter-spacing: 0%;
+      text-align: center;
+}
+
+.contact-box input {
+      width: 548px;
+      height: 57px;
+      padding: 19px 20px 19px 20px;
+      margin: 0px 16px;
+      box-sizing: border-box;
+      border: 1px solid rgba(13, 19, 33, 0.15);
+      border-radius: 8px;
+      background: rgb(255, 255, 255);
+      color: rgba(13, 19, 33, 0.4);
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 19px;
+      letter-spacing: 0%;
+      text-align: center;
+}
+
+.contact-box button {
+      width: 120px;
+      height: 57px;
+      padding: 17px 20px 17px 20px;
+      margin: 0px 16px;
+      border-radius: 8px;
+      background: rgb(255, 255, 255);
+      color: rgb(13, 19, 33);
+      font-size: 20px;
+      font-weight: 600;
+      line-height: 23px;
+      letter-spacing: 0%;
+      text-align: center;
 }
